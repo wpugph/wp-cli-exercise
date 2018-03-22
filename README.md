@@ -1,4 +1,4 @@
-# wp-cli-exercise
+# WordPress CLI Exercise
 
 ## Prerequisites:
 
